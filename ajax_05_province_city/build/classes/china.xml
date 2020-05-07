@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<china>
+	<province name="北京">
+		<city>东城区</city>
+		<city>西城区</city>
+		<city>海淀区</city>
+	</province>
+	<province name="天津">
+		<city>和平区</city>
+		<city>河东区</city>
+	</province>
+	<province name="重庆">
+		<city>万州区</city>
+		<city>永川区</city>
+		<city>渝北区</city>
+	</province>
+</china>
